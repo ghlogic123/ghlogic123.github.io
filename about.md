@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-[Jekyll Writer](http://www.jekyllwriter.com) is a Jekyll blog site writer. You may download Jekyll Writer for Windows, OS X and Linux from our [official website](http://www.jekyllwriter.com).
+A master student in ML(not Machine Learning) & interested in TCS, Sociology and History of Intelligence. A big fan of GSW:)
