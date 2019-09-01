@@ -1,7 +1,7 @@
 # Created by Jekyll Writer
-title: LogicRocks
-author: GH
-description: Share some notes and opinions here.
+title: Logic Rocks
+author: Old Tall
+description: 'Share some experience, notes and opinions here.'
 permalink: '/:year/:month/:day/:title/'
 paginate: 6
 paginate_path: '/page/:num/'
@@ -10,4 +10,4 @@ gems:
   - jekyll-paginate
 markdown: kramdown
 baseurl: ''
-email: ghlogic123@outlook.com
+email: ghlogic123
