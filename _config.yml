@@ -1,13 +1,13 @@
 # Created by Jekyll Writer
-title: Old Tall's Blog
+title: LogicRocks
 author: GH
-description: This is a Jekyll blog site.
+description: Share some notes and opinions here.
 permalink: '/:year/:month/:day/:title/'
 paginate: 6
 paginate_path: '/page/:num/'
-twitter_username: jekyllwriter
 github_username: ghlogic123
 gems:
   - jekyll-paginate
 markdown: kramdown
 baseurl: ''
+email: ghlogic123@outlook.com
