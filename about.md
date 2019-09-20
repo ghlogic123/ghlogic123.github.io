@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-A master student in **ML**(not Machine Learning) & interested in TCS, Sociology and History of Intelligence. A big fan of **GSW** :)
+I'm a master student in **ML**(not Machine Learning) & **TCS**, I'm interested in Sociology and Intellectual History/History of Thought. Besides, I'm a ten-year big fan of **GSW** :)
