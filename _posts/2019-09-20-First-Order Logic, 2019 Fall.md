@@ -32,13 +32,11 @@ tags: FOL
 * 赋值满足：$V\vDash \phi$
 * 语义后承：$\Sigma \Vdash \phi$ 
 
-> **Theorem 1**  对任意公式$\phi$: $\varnothing\Vdash\phi$ iff $\phi$是有效的。
+> **Theorem 1**  对任意公式![TeX](https://math.jekyllwriter.com/?q=%5Cphi%EF%BC%9A%5Cvarnothing%5CVdash%5Cphi) iff ![TeX](https://math.jekyllwriter.com/?q=%5Cphi)是有效的。
 
-> **Theorem 2** $\{\sigma_1,\cdots,\sigma_{n}\}\Vdash \phi$ iff $(\sigma_1\rightarrow(\sigma_2\rightarrow \cdots \rightarrow (\sigma_{n}\rightarrow \phi)\cdots))$是有效的。 
+> **Theorem 2** ![TeX](https://math.jekyllwriter.com/?q=%5C%7B%5Csigma_1%2C%5Ccdots%2C%5Csigma_%7Bn%7D%5C%7D%5CVdash%20%5Cphi) iff ![TeX](https://math.jekyllwriter.com/?q=(%5Csigma_1%5Crightarrow(%5Csigma_2%5Crightarrow%20%5Ccdots%20%5Crightarrow%20(%5Csigma_%7Bn%7D%5Crightarrow%20%5Cphi)%5Ccdots)))是有效的。 
 
 
 > Formal Proof
-*-------------------------*
+-------------------------
 Math Proof &emsp; &emsp; Math Objects
-
-![TeX](https://math.jekyllwriter.com/?q=%24%7B%5Csigma_1%2C%5Ccdots%2C%5Csigma_%7Bn%7D%7D%5CVdash%20%5Cphi%24)
