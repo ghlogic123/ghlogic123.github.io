@@ -1,7 +1,7 @@
 ---
 title: 'First-Order Logic, 2019 Fall'
 layout: post
-categories: 'Notes,Logic'
+categories: 'Notes, Logic'
 tags: FOL
 ---
 # First-Order Logic, 2019 Fall
@@ -40,3 +40,5 @@ tags: FOL
 > Formal Proof
 *-------------------------*
 Math Proof &emsp; &emsp; Math Objects
+
+![TeX](https://math.jekyllwriter.com/?q=%24%7B%5Csigma_1%2C%5Ccdots%2C%5Csigma_%7Bn%7D%7D%5CVdash%20%5Cphi%24)
