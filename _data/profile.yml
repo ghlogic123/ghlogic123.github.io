@@ -21,6 +21,13 @@ short_bio: >-
     My complete CV is available upon request. 
   </p>
 
+service: 
+  - name: "AAA"
+    dept: "Department or Committee Name"
+    position: "Your Role/Position"
+    date: "2020-2023"
+# logo: "/assets/images/badges/logo.png"
+
 # portrait_url: /assets/images/photos/portrait.jpg
 # portrait_caption: >-
   # Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
@@ -32,10 +39,3 @@ short_bio: >-
 #    Department of Electrical Engineering and Computer Science <br/>
 #    Ph.D. Student
 #  date: Sep. 2024 - present
-
-service: 
-  - name: "AAA"
-    dept: "Department or Committee Name"
-    position: "Your Role/Position"
-    date: "2020-2023"
-# logo: "/assets/images/badges/logo.png"
