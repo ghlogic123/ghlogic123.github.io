@@ -34,10 +34,9 @@ short_bio: >-
 #  date: Sep. 2024 - present
 
 service: 
-<p>
-    <ul>
-        <li>Reviewer of </li>
-        <li>Reviewer of </li>
-        <li>Reviewer of </li>
-    </ul>
-</p>
+- name: Reviewer of <strong>30th International Conference on Automated Deduction
+.</strong> [CADE 2025](https://www.dhbw-stuttgart.de/cade-30/)
+- name: Reviewer of <strong>33rd EACSL Annual Conference on
+Computer Science Logic.</strong> [CSL 2025](https://drops.dagstuhl.de/entities/volume/LIPIcs-volume-326)
+- name: Reviewer of <strong> NON-CLASSICAL LOGICS{:} THEORY AND APPLICATIONS 2024.</strong> [NCL 2024](https://easychair.org/smart-program/NCL'24/)
+- name: Reviewer of <strong>Advances in Modal Logic 2024</strong> [AiML 2024](https://www.cs.cas.cz/aiml2024/)
