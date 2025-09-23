@@ -25,9 +25,9 @@ short_bio: >-
 # portrait_caption: >-
   # Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
-# education:
-# - name: Massachusetts Institute of Technology
-#   logo: /assets/images/badges/MIT_Social_circle.png
+education:
+- name: AAA
+   logo: /assets/images/badges/MIT_Social_circle.png
 #  position: >- 
 #    Department of Electrical Engineering and Computer Science <br/>
 #    Ph.D. Student
