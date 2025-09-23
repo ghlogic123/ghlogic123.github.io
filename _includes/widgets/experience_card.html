@@ -1,3 +1,4 @@
+<p>DEBUG: Service data exists: {{ site.data.profile.service }}</p>
 <div class="row mt-3">
     <div class="col">
         <div class="card border-0 shadow-sm bg-white">
@@ -68,7 +69,7 @@
                     {% endif %}
 
                     {% if site.data.profile.service %}
-<div class="col-md-6">
+                    <div class="col-md-6">
     <div class="mx-2 my-1">
         <h6>Service</h6>
         <ul class="list-unstyled mb-1">
@@ -87,8 +88,8 @@
             {% endfor %}
         </ul>
     </div>
-</div>
-{% endif %}
+                    </div>
+                    {% endif %}
                 </div>
 
             </div>
