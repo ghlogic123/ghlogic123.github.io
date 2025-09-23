@@ -34,4 +34,8 @@ short_bio: >-
 #  date: Sep. 2024 - present
 
 service: 
-- name: "AAA"
+  - name: "AAA"
+    dept: "Department or Committee Name"
+    position: "Your Role/Position"
+    date: "2020-2023"
+    logo: "/assets/images/badges/logo.png"

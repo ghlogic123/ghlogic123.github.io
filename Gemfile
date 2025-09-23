@@ -10,6 +10,16 @@ source "https://rubygems.org"
 # Happy Jekylling!
 gem "jekyll", "~> 3.9"
 
+gem 'base64'
+gem 'bigdecimal'
+gem 'csv'
+gem 'drb'
+gem 'fiddle'
+gem 'logger'
+gem 'mutex_m'
+gem 'nkf'
+gem 'ostruct'
+
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 # gem "minima", "~> 2.0"
 
@@ -30,4 +40,6 @@ gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem "wdm", "~> 0.2" if Gem.win_platform?
 
 gem "webrick", "~> 1.7"
-gem "kramdown-parser-gfm"
+# gem "kramdown-parser-gfm"
+
+gem 'kramdown-parser-gfm', '~> 1.1.0'
