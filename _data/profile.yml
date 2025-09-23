@@ -38,4 +38,4 @@ service:
     dept: "Department or Committee Name"
     position: "Your Role/Position"
     date: "2020-2023"
-    logo: "/assets/images/badges/logo.png"
+# logo: "/assets/images/badges/logo.png"
