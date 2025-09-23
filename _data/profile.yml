@@ -21,12 +21,17 @@ short_bio: >-
     My complete CV is available upon request. 
   </p>
 
-service: 
-  - name: "AAA"
-    dept: "Department or Committee Name"
-    position: "Your Role/Position"
-    date: "2020-2023"
-# logo: "/assets/images/badges/logo.png"
+service:
+  - name: "Reviewer of "<b>30th International Conference on Automated Deduction
+.</b> [CADE 2025](https://www.dhbw-stuttgart.de/cade-30/)"
+    date: "2025"
+  - name: "Reviewer of <strong>33rd EACSL Annual Conference on
+  Computer Science Logic.</strong> [CSL 2025](https://drops.dagstuhl.de/entities/volume/LIPIcs-volume-326)"
+    date: "2024"
+  - name: "Reviewer of <strong> NON-CLASSICAL LOGICS{:} THEORY AND APPLICATIONS 2024.</strong> [NCL 2024](https://easychair.org/smart-program/NCL'24/)"
+    date: "2024"
+  - name: "Reviewer of <strong>Advances in Modal Logic 2024</strong> [AiML 2024](https://www.cs.cas.cz/aiml2024/)"
+    date: "2024"
 
 # portrait_url: /assets/images/photos/portrait.jpg
 # portrait_caption: >-
