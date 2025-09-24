@@ -7,18 +7,23 @@ navbar_name: "Han Gao"
 
 email: "gao.han@lis-lab.fr"
 # cv_link: link-to-your-cv-file
-gscholar: AAAA  # This is an example, replace it with your own Google Scholar ID
+gscholar: O8AfiH0AAAAJ  # This is an example, replace it with your own Google Scholar ID
 # github: your_github_id
 # linkedin: your-linked-in-id
-orcid: 0000-0000-0000-0000
+orcid: 0009-0004-1095-3347
 
 short_bio_text_justify: false
 short_bio: >-
-  <p>
-    short bio
+  <p>Welcome to my homepage!
   </p>
   <p>
-    My complete CV is available upon request. 
+  I am a final year Ph.D. student at 
+  <a href="https://www.lis-lab.fr" target="_blank">Laboratoire d'Informatique et Systèmes (LIS)</a>. 
+  I work on structural proof theory for non-classical logics. 
+  Before starting my Ph.D., I received my master's degree at Tsinghua University (Beijing, China) in 2022 and bachelor's degree at Lanzhou University (Lanzhou, China) in 2019.
+  </p>
+  <p>
+  My complete CV is available upon request. 
   </p>
 
 service:
