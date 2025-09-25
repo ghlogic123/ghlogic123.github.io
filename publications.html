@@ -6,7 +6,9 @@ body_attr: >-
   data-spy="scroll" data-target="#navbar-year" data-offset="100"
 ---
 
-<p class="small">Author names for all the publications are given in alphabetical order. </p>
+<p></p>
+
+<p class="small text-center">Author names for all the publications are given in alphabetical order. </p>
 
 {% assign pubs_by_year = site.publications | sort: "date" | reverse | group_by_exp: "item", "item.date | date: '%Y'" %}
 
