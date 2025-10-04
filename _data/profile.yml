@@ -5,7 +5,7 @@ navbar_name: "Han Gao"
 # positions:
 # - name: Position 123
 
-email: "gao.han@lis-lab.fr"
+email: "gao@cs.cas.cz"
 # cv_link: link-to-your-cv-file
 gscholar: O8AfiH0AAAAJ  # This is an example, replace it with your own Google Scholar ID
 # github: your_github_id
@@ -17,8 +17,9 @@ short_bio: >-
   <p>Welcome to my homepage!
   </p>
   <p>
-  I am a final year Ph.D. student at 
-  <a href="https://www.lis-lab.fr" target="_blank">Laboratoire d'Informatique et Systèmes (LIS)</a>, affiliated with Aix-Marseille Université and CNRS. 
+  I am a final year Ph.D. student supervised by 
+  <a href="https://pageperso.lis-lab.fr/nicola.olivetti/" target="_blank">Prof. Nicola Olivetti</a>
+  at <a href="https://www.lis-lab.fr" target="_blank">Laboratoire d'Informatique et Systèmes (LIS)</a>, affiliated with Aix-Marseille Université and CNRS. 
   I work on structural proof theory for non-classical logics. 
   Before starting my Ph.D., I received my master's degree at Tsinghua University (Beijing, China) in 2022 and bachelor's degree at Lanzhou University (Lanzhou, China) in 2019. 
   </p>
