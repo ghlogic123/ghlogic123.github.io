@@ -25,7 +25,7 @@ short_bio: >-
   Prior to the current position, I completed my Ph.D. in October 2025 under the 
   supervision of 
   <a href="https://pageperso.lis-lab.fr/nicola.olivetti/" target="_blank">Prof. Nicola Olivetti</a> at <a href="https://www.lis-lab.fr" target="_blank">Laboratoire d'Informatique et Systèmes (LIS)</a>, 
-  affiliated with Aix-Marseille Université and CNRS. In my thesis, I conducted proof-theoretic studies of (intuitionistic) modal logics. 
+  affiliated with Aix-Marseille Université and CNRS. In my thesis, I conducted proof-theoretic studies on (intuitionistic) modal logics. 
   Before starting my Ph.D., I received my Master's degree in 2022 and Bachelor's degree in 2019. 
   </p>
   <p>
@@ -33,7 +33,7 @@ short_bio: >-
   </p>
 
 service:
-- name: Reviewer of <a href="https://www.dhbw-stuttgart.de/cade-30/" target="_blank">CADE 2025</a>, <a href="https://drops.dagstuhl.de/entities/volume/LIPIcs-volume-326" target="_blank">CSL 2025</a>, <a href="https://easychair.org/smart-program/NCL'24/" target="_blank">NCL 2024</a> and <a href="https://www.cs.cas.cz/aiml2024/" target="_blank">AiML 2024</a>
+- name: Reviewer of <a href="https://www.dhbw-stuttgart.de/cade-30/" target="_blank">CADE-30</a>, <a href="https://drops.dagstuhl.de/entities/volume/LIPIcs-volume-326" target="_blank">CSL 2025</a>, <a href="https://easychair.org/smart-program/NCL'24/" target="_blank">NCL 2024</a> and <a href="https://www.cs.cas.cz/aiml2024/" target="_blank">AiML 2024</a>
 date: "2025"
 
 portrait_url: /assets/images/photos/image.png
