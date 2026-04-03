@@ -19,7 +19,10 @@ short_bio: >-
   <p>
   I am a postdoctoral researcher in the <a href="https://www.cs.cas.cz/logics/" target="_blank">LogICS</a> group at <a href="https://www.cs.cas.cz/en" target="_blank">Institute of Computer Science</a> of 
   the Czech Academy of Sciences. 
-  I work on structural proof theory for non-classical logics. 
+  I am a member of the <a href="http://www.wesleyfussner.com/team.html" target="_blank">Metalogic Group</a>, working on the <a href="http://www.wesleyfussner.com/team.html" target="_blank">INTERACT </a> project (PI: <a href="http://www.wesleyfussner.com" target="_blank">Dr. Wesley Fussner</a>).
+  </p>
+  <p>
+  My research specializes in structural proof theory for non-classical systems comprising modal and substructural logics. I focus on the development of structured calculi—notably variants of nested sequent calculi—investigating their properties and applications within various logical contexts. 
   </p>
   <p>
   Prior to the current position, I completed my Ph.D. in October 2025 under the 
@@ -37,5 +40,5 @@ service:
 date: "2025"
 
 portrait_url: /assets/images/photos/image.png
-# portrait_caption: >-
-  # Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+portrait_caption: >-
+  # Shot at Suzhou, 2024
