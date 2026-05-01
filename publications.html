@@ -1,14 +1,26 @@
 ---
 layout: default
-title : Publications
-navbar_title: Publications
+title : Research
+navbar_title: Research
 body_attr: >-
   data-spy="scroll" data-target="#navbar-year" data-offset="100"
 ---
 
 <p></p>
 
-<p>Author names for all the publications are given in alphabetical order. </p>
+My research interests and existing work are organized around the following themes:
+<ul>
+  <li>Unified structured calculi applicable across a broad range of logics</li>
+  <li>Refined calculi for studying meta-logical and computational properties</li>
+  <li>Development of novel proof methods by leveraging existing calculi, interacting with other fields in logic</li>
+  <li>Secondary interest: non-standard design of calculi for certain philosophical logics</li>
+</ul>
+
+<hr>
+
+<p>
+The following is an up-to-date list of my published works including peer-reviewed conference and journal papers, extended abstracts and theses. 
+Author names for all the publications are given in alphabetical order. </p>
 
 {% assign pubs_by_year = site.publications | sort: "date" | reverse | group_by_exp: "item", "item.date | date: '%Y'" %}
 
