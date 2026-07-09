@@ -41,3 +41,5 @@ collections:
     output: true
   talks:
     output: true
+  others:
+    output: true
